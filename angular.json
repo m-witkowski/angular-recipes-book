@@ -99,5 +99,7 @@
       }
     }
   },
-  "defaultProject": "course-project"
+  "cli": {
+    "analytics": "9bb276f8-f21f-4d1d-818c-c5bfd6051140"
+  }
 }
